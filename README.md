@@ -36,7 +36,7 @@ Home Assistant custom integration for monitoring and controlling Bitcoin miners 
 1. Open HACS in Home Assistant
 2. Click the three dots menu in the top right
 3. Select "Custom repositories"
-4. Add this repository URL: `https://github.com/Tronsington/ha-integration-stealthminer`
+4. Add this repository URL: `https://github.com/exergyheat/ha-integration-stealthminer`
 5. Select "Integration" as the category
 6. Click "Add"
 7. Search for "Stealthminer" and install it
@@ -44,7 +44,7 @@ Home Assistant custom integration for monitoring and controlling Bitcoin miners 
 
 ### Manual Installation
 
-1. Download the latest release from the [releases page](https://github.com/Tronsington/ha-integration-stealthminer/releases)
+1. Download the latest release from the [releases page](https://github.com/exergyheat/ha-integration-stealthminer/releases)
 2. Extract and copy the `custom_components/stealthminer` folder to your Home Assistant `config/custom_components/` directory
 3. Restart Home Assistant
 
@@ -98,7 +98,7 @@ Home Assistant custom integration for monitoring and controlling Bitcoin miners 
 
 ## Support
 
-If you encounter any issues, please [open an issue](https://github.com/Tronsington/ha-integration-stealthminer/issues) on GitHub.
+If you encounter any issues, please [open an issue](https://github.com/exergyheat/ha-integration-stealthminer/issues) on GitHub.
 
 ## License
 
